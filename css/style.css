@@ -1,0 +1,76 @@
+/* CSS Document */
+
+
+body {
+    font-family: 'Pangolin', cursive;
+}
+
+ 
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    color: black;
+}
+.logo {
+    background: #E60AB8;
+}
+.logo img {
+    width: 100px;
+    
+}
+nav {
+    background: #E60AB8;
+}
+.nav-link {
+    color: black;
+}
+.nav-link:hover {
+    color: #E60AB8;
+}
+.navbar-brand {
+    color:black; 
+}
+.navbar-toggler-icon {
+    background-image:url("../images/square.png")
+}
+.products {
+    margin: 20px;
+    text-align: center;
+}
+.content-shop {
+    background: #E60AB8;
+}
+.footer {
+  background: #E60AB8;
+  padding: 10px 0;
+}
+.footer a {
+  color: dimgrey;
+  font-size: 20px;
+  padding: 10px;
+}
+.footer a:hover {
+  color: white;
+}
+.social-icons {
+  text-align: center;
+}
+.social-icons li {
+  display: inline-block;
+  list-style-type: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+.social-icons li a {
+  border-bottom: none;
+}
+.social-icons li img {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
+.instagramicon img {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
